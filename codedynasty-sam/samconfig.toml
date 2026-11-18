@@ -10,4 +10,4 @@ disable_rollback = true
 image_repositories = []
 
 [default.global.parameters]
-region = "us-east-1"
+region = "eu-west-2"
